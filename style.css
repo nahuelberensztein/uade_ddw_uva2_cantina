@@ -1,0 +1,36 @@
+*{
+    text-transform: lowercase;
+    font-family: 'Arial', sans-serif;
+    background-color: hsl(0, 20%, 90%);
+}
+
+h1, h2{
+    text-transform: uppercase;
+}
+
+html{
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: hsl(0, 30%, 90%);
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+nav{
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: hsl(0, 0%, 0%);
+    font-weight: bold;
+}
+
+a:hover{
+    font-weight: normal;
+    color: #0000ff;
+}
